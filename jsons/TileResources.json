@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cerdo ibérico",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": [
+      "Plains",
+      "Grassland",
+      "Hill"
+    ],
+    "food": 1,
+    "gold": 1,
+    "improvement": "Pasture",
+    "improvementStats": {
+      "gold": 1
+    },
+    "uniques": [
+      "Doesn't generate naturally"
+    ]
+  }
+]
