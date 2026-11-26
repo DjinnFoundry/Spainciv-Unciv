@@ -18,19 +18,20 @@ de [spainciv](https://spainciv.djinnfoundry.com): costa, relieve, ríos, cubiert
 |---|---|---|
 | Hierro | 35 | los yacimientos grandes y medianos de hierro del BDMIN del IGME y las explotaciones de óxidos de hierro de 2019 |
 | Caballos | 19 | las comarcas agrarias con al menos 4 veces la densidad de équidos de España (Censo Agrario 2020, INE): 20 comarcas |
-| Carbón | 12 | los yacimientos grandes y medianos de hulla, antracita, lignito y carbón del BDMIN (IGME), se exploten hoy o no |
+| Carbón | 13 | los yacimientos grandes y medianos de hulla, antracita, lignito y carbón del BDMIN (IGME), se exploten hoy o no |
 | Petróleo | 2 | las concesiones de hidrocarburos en explotación (IGME, 2019); Unciv no tiene gas, así que cuentan como petróleo |
-| Uranio | 2 | los yacimientos grandes y medianos de uranio del BDMIN (IGME) |
-| Oro | 11 | los yacimientos grandes y medianos de oro del BDMIN (IGME) y la mina de oro activa en 2019 |
-| Plata | 14 | los yacimientos grandes y medianos de plata del BDMIN (IGME) |
+| Aluminio | 1 | los yacimientos grandes y medianos de bauxita del BDMIN (IGME); la casilla puede estar hasta a unos 50 km del yacimiento |
+| Uranio | 3 | los yacimientos grandes y medianos de uranio del BDMIN (IGME); la casilla puede estar hasta a unos 50 km del yacimiento |
+| Oro | 12 | los yacimientos grandes y medianos de oro del BDMIN (IGME) y la mina de oro activa en 2019 |
+| Plata | 15 | los yacimientos grandes y medianos de plata del BDMIN (IGME) |
 | Cobre | 28 | los yacimientos grandes y medianos de cobre del BDMIN (IGME) y las minas de cobre activas en 2019 |
 | Mármol | 15 | las canteras de mármol (IGME, 2019) |
 | Sal | 26 | las minas de sal gema, salinas marinas y de manantial (IGME, 2019) |
-| Vino | 79 | las denominaciones de origen de vino (Ministerio de Agricultura) |
+| Vino | 127 | las denominaciones de origen de vino (Ministerio de Agricultura) |
 | Cerdo ibérico | 4 | las cuatro DOP de jamón ibérico: Jabugo, Guijuelo, Dehesa de Extremadura y Los Pedroches (recurso propio del mod) |
 | Cítricos | 1 | las IGP Cítricos Valencianos y Clementinas de las Tierras del Ebro |
 | Especias | 1 | las DOP Azafrán de La Mancha, Pimentón de la Vera y Pimentón de Murcia |
-| Ganado | 6 | las IGP de carne de vacuno (Ternera Gallega, Ternera Asturiana, Carne de Ávila y otras) |
+| Ganado | 5 | las IGP de carne de vacuno (Ternera Gallega, Ternera Asturiana, Carne de Ávila y otras) |
 | Ovejas | 6 | las IGP de cordero (Cordero Manchego, Lechazo de Castilla y León, Ternasco de Aragón y otras) |
 | Peces | 5 | las IGP y DOP de pescado y marisco (Mejillón de Galicia, Caballa de Andalucía, Mojama de Barbate y otras) |
 | Piedra | 20 | las canteras de roca ornamental: granito, caliza, pizarra, arenisca y cuarcita (IGME, 2019) |
@@ -52,19 +53,20 @@ Spain as a map for [Unciv](https://github.com/yairm210/Unciv), the open-source C
 |---|---|---|
 | Iron | 35 | IGME's BDMIN large and medium iron deposits and the iron-oxide workings of 2019 |
 | Horses | 19 | the agricultural comarcas with at least 4 times Spain's density of equines (Censo Agrario 2020, INE): 20 comarcas |
-| Coal | 12 | BDMIN (IGME) large and medium deposits of hard coal, anthracite, lignite and coal, worked today or not |
+| Coal | 13 | BDMIN (IGME) large and medium deposits of hard coal, anthracite, lignite and coal, worked today or not |
 | Oil | 2 | the hydrocarbon concessions in production (IGME, 2019); Unciv has no gas, so gas fields count as oil |
-| Uranium | 2 | BDMIN (IGME) large and medium uranium deposits |
-| Gold Ore | 11 | BDMIN (IGME) large and medium gold deposits and the gold mine working in 2019 |
-| Silver | 14 | BDMIN (IGME) large and medium silver deposits |
+| Aluminum | 1 | BDMIN (IGME) large and medium bauxite deposits; the tile may be up to about 50 km from the deposit |
+| Uranium | 3 | BDMIN (IGME) large and medium uranium deposits; the tile may be up to about 50 km from the deposit |
+| Gold Ore | 12 | BDMIN (IGME) large and medium gold deposits and the gold mine working in 2019 |
+| Silver | 15 | BDMIN (IGME) large and medium silver deposits |
 | Copper | 28 | BDMIN (IGME) large and medium copper deposits and the copper mines working in 2019 |
 | Marble | 15 | marble quarries (IGME, 2019) |
 | Salt | 26 | rock-salt mines, sea salt works and spring salt works (IGME, 2019) |
-| Wine | 79 | the wine designations of origin (Ministry of Agriculture) |
+| Wine | 127 | the wine designations of origin (Ministry of Agriculture) |
 | Cerdo ibérico (Iberian pig) | 4 | the four Iberian ham PDOs: Jabugo, Guijuelo, Dehesa de Extremadura and Los Pedroches (this mod's own resource) |
 | Citrus | 1 | the PGIs Cítricos Valencianos and Clementinas de las Tierras del Ebro |
 | Spices | 1 | the PDOs Azafrán de La Mancha (saffron), Pimentón de la Vera and Pimentón de Murcia (paprika) |
-| Cattle | 6 | the beef PGIs (Ternera Gallega, Ternera Asturiana, Carne de Ávila and others) |
+| Cattle | 5 | the beef PGIs (Ternera Gallega, Ternera Asturiana, Carne de Ávila and others) |
 | Sheep | 6 | the lamb PGIs (Cordero Manchego, Lechazo de Castilla y León, Ternasco de Aragón and others) |
 | Fish | 5 | the fish and shellfish PGIs and PDOs (Mejillón de Galicia, Caballa de Andalucía, Mojama de Barbate and others) |
 | Stone | 20 | ornamental-rock quarries: granite, limestone, slate, sandstone and quartzite (IGME, 2019) |
