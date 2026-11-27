@@ -11,7 +11,8 @@ de [spainciv](https://spainciv.djinnfoundry.com): costa, relieve, ríos, cubiert
 
 - 83 × 53 casillas de 25 km (1994 de tierra, 958 de ellas españolas).
 - Reglas: Civ V - Gods & Kings, las de serie, más las 17 comunidades autónomas como civilizaciones, Ceuta y
-  Melilla como ciudades-estado y un recurso propio, el cerdo ibérico. Probado en Unciv 5.0.1.
+  Melilla como ciudades-estado, un recurso propio, el cerdo ibérico, y el suceso de la temporada de incendios. Probado
+  en Unciv 5.0.1.
 - Cada comunidad empieza en su capital, con su bandera, sus municipios más poblados (Padrón 2025) como
   nombres de ciudad y una ventaja sobre el recurso que más tiene. Elige la tuya en la bandera de tu jugador.
 - Al elegir el mapa «España» en una partida nueva, Unciv activa este mod por sí solo.
@@ -60,6 +61,22 @@ de [spainciv](https://spainciv.djinnfoundry.com): costa, relieve, ríos, cubiert
 | Peces | 5 | las IGP y DOP de pescado y marisco (Mejillón de Galicia, Caballa de Andalucía, Mojama de Barbate y otras) |
 | Piedra | 20 | las canteras de roca ornamental: granito, caliza, pizarra, arenisca y cuarcita (IGME, 2019) |
 
+### Temporada de incendios
+
+Cada 5 turnos, cada civilización mayor puede sufrir un gran incendio en su territorio. Puede enviar
+brigadas (oro: 60, 150 o 400 según la era, por la velocidad de la partida) o dejar
+que se apague solo (-25 % de producción en todas sus ciudades durante 5 turnos).
+Dato: los 311 incendios de 500 ha o más que el EFFIS (Copernicus, CC BY 4.0) cartografió en España de
+2016 a 2025, repartidos entre las casillas que cubrió cada uno. Convención: un turno es una temporada,
+el incendio de cada temporada cae en tu territorio con la parte de España que tienes (la suma de los pesos de tus
+casillas entre 100.000; toda España, uno por temporada, frente a unos 30,4 en el EFFIS), se comprueba cada 5 turnos y el precio y el castigo son del juego.
+
+| Casilla | Casillas españolas | Grandes incendios por casilla y temporada | Peso |
+|---|---|---|---|
+| Montaña | 68 | 0,069 | 228 |
+| Colina, también con bosque | 187 | 0,061 | 201 |
+| El resto de la tierra | 703 | 0,020 | 67 |
+
 Cómo instalarlo y qué es dato real y qué es convención del juego: https://spainciv.djinnfoundry.com/jugar.html
 
 ## English
@@ -69,8 +86,8 @@ Spain as a map for [Unciv](https://github.com/yairm210/Unciv), the open-source C
 
 - 83 × 53 tiles 25 km across (1994 land tiles, 958 of them Spanish).
 - Ruleset: Civ V - Gods & Kings, the default, plus Spain's 17 autonomous communities as civilizations, Ceuta
-  and Melilla as city-states and one resource of its own, the Iberian pig («Cerdo ibérico»). Tested in Unciv
-  5.0.1.
+  and Melilla as city-states, one resource of its own, the Iberian pig («Cerdo ibérico»), and the fire season event.
+  Tested in Unciv 5.0.1.
 - Each community starts in its capital, with its flag, its most populous municipalities (2025 Padrón) as city
   names and an advantage on the resource it holds most of. Pick yours on your player's flag.
 - When you pick the map «España» for a new game, Unciv turns this mod on by itself.
@@ -119,6 +136,23 @@ Spain as a map for [Unciv](https://github.com/yairm210/Unciv), the open-source C
 | Fish | 5 | the fish and shellfish PGIs and PDOs (Mejillón de Galicia, Caballa de Andalucía, Mojama de Barbate and others) |
 | Stone | 20 | ornamental-rock quarries: granite, limestone, slate, sandstone and quartzite (IGME, 2019) |
 
-How to install it, and what is real data and what is game convention (in Spanish): https://spainciv.djinnfoundry.com/jugar.html
+### Fire season
+
+Every 5 turns, each major civilization may get a great fire on its land. It can send fire brigades (gold:
+60, 150 or 400 by era, times the game speed) or let it burn out
+(-25% Production in all its cities for 5 turns). Data: the 311 fires of
+500 ha or more that EFFIS (Copernicus, CC BY 4.0) mapped in Spain from 2016 to 2025, each
+shared among the tiles it covered. Convention: a turn is one season, each season's fire lands on your territory with
+the share of Spain you own (the sum of your tiles' weights over 100,000; all of Spain, one a season, against
+about 30.4 in EFFIS), the check runs every 5
+turns, and the price and the penalty are the game's.
+
+| Tile | Spanish tiles | Great fires per tile per season | Weight |
+|---|---|---|---|
+| Mountain | 68 | 0.069 | 228 |
+| Hill, wooded or not | 187 | 0.061 | 201 |
+| Any other land | 703 | 0.020 | 67 |
+
+How to install it, and what is real data and what is game convention: https://spainciv.djinnfoundry.com/play.html
 
 Licence: CC BY 4.0 (see LICENSE).

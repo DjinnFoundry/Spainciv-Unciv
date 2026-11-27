@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Fire season",
+    "presentation": "Alert",
+    "text": "A great fire is burning on your land. In Spain EFFIS mapped 311 fires of 500 ha or more in 10 seasons, about 31 a season, and hills and mountains burn 3 times as often per tile as flat land.",
+    "choices": [
+      {
+        "text": "Send fire brigades",
+        "uniques": [
+          "Gain [-60] [Gold] <(modified by game speed)>",
+          "Only available <when above [60] [Gold]> <before the [Medieval era]> <(modified by game speed)>",
+          "[+100]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "text": "Send fire brigades",
+        "uniques": [
+          "Gain [-150] [Gold] <(modified by game speed)>",
+          "Only available <when above [150] [Gold]> <starting from the [Medieval era]> <before the [Industrial era]> <(modified by game speed)>",
+          "[+100]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "text": "Send fire brigades",
+        "uniques": [
+          "Gain [-400] [Gold] <(modified by game speed)>",
+          "Only available <when above [400] [Gold]> <starting from the [Industrial era]> <(modified by game speed)>",
+          "[+100]% weight to this choice for AI decisions"
+        ]
+      },
+      {
+        "text": "Let it burn out",
+        "uniques": [
+          "[-25]% [Production] [in all cities] <for [5] turns>"
+        ]
+      }
+    ]
+  }
+]
