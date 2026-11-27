@@ -1,11 +1,263 @@
 game.png
-size: 128, 128
+size: 1024, 512
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
 ResourceIcons/Cerdo ibérico
   rotate: false
-  xy: 0, 0
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Andalucía
+  rotate: false
+  xy: 103, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Andalucía
+  rotate: false
+  xy: 205, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Aragón
+  rotate: false
+  xy: 307, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Aragón
+  rotate: false
+  xy: 409, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Asturias
+  rotate: false
+  xy: 511, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Asturias
+  rotate: false
+  xy: 613, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Illes Balears
+  rotate: false
+  xy: 715, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Illes Balears
+  rotate: false
+  xy: 817, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Canarias
+  rotate: false
+  xy: 919, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Canarias
+  rotate: false
+  xy: 1, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Cantabria
+  rotate: false
+  xy: 103, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Cantabria
+  rotate: false
+  xy: 205, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Castilla y León
+  rotate: false
+  xy: 307, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Castilla y León
+  rotate: false
+  xy: 409, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Castilla-La Mancha
+  rotate: false
+  xy: 511, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Castilla-La Mancha
+  rotate: false
+  xy: 613, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Cataluña (Catalunya)
+  rotate: false
+  xy: 715, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Cataluña (Catalunya)
+  rotate: false
+  xy: 817, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Comunitat Valenciana
+  rotate: false
+  xy: 919, 103
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Comunitat Valenciana
+  rotate: false
+  xy: 1, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Extremadura
+  rotate: false
+  xy: 103, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Extremadura
+  rotate: false
+  xy: 205, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Galicia
+  rotate: false
+  xy: 307, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Galicia
+  rotate: false
+  xy: 409, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Madrid
+  rotate: false
+  xy: 511, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Madrid
+  rotate: false
+  xy: 613, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Murcia
+  rotate: false
+  xy: 715, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Murcia
+  rotate: false
+  xy: 817, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Navarra
+  rotate: false
+  xy: 919, 205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Navarra
+  rotate: false
+  xy: 1, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Euskadi (País Vasco)
+  rotate: false
+  xy: 103, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Euskadi (País Vasco)
+  rotate: false
+  xy: 205, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/La Rioja
+  rotate: false
+  xy: 307, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/La Rioja
+  rotate: false
+  xy: 409, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Ceuta
+  rotate: false
+  xy: 511, 307
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationPortraits/Melilla
+  rotate: false
+  xy: 613, 307
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
