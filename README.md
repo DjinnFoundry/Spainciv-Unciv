@@ -15,6 +15,8 @@ de [spainciv](https://spainciv.djinnfoundry.com): costa, relieve, ríos, cubiert
   en Unciv 5.0.1.
 - Cada comunidad empieza en su capital, con su bandera, sus municipios más poblados (Padrón 2025) como
   nombres de ciudad y una ventaja sobre el recurso que más tiene. Elige la tuya en la bandera de tu jugador.
+- Castilla y León, la comunidad con mayor proporción de vecinos de 85 años o más entre los de 65 o más (Censo anual
+  de población del INE), crece además un 10 % más rápido: es una convención del juego.
 - Al elegir el mapa «España» en una partida nueva, Unciv activa este mod por sí solo.
 
 | Civilización | Empieza en | Ventaja | Tendencia de inicio |
@@ -25,7 +27,7 @@ de [spainciv](https://spainciv.djinnfoundry.com): costa, relieve, ríos, cubiert
 | Illes Balears | Palma | Vino: 5 de las 127 casillas de vino del mapa (+1 comida, producción y oro) | Costa |
 | Canarias | Las Palmas de Gran Canaria | Vino: 4 de las 127 casillas de vino del mapa (+1 comida, producción y oro) | Costa |
 | Cantabria | Santander | Caballos: 5 de las 19 casillas de caballos del mapa (+1 comida, producción y oro; se ve con Ganadería) | Costa |
-| Castilla y León | Valladolid | Ovejas: 1 de las 6 casillas de ovejas del mapa (+1 comida, producción y oro) | Sabana |
+| Castilla y León | Valladolid | Ovejas: 1 de las 6 casillas de ovejas del mapa (+1 comida, producción y oro); longevidad: el 19,2 % de los de 65 o más tiene 85 o más, la mayor proporción (España, 15,6 %): +10 % de crecimiento | Sabana |
 | Castilla-La Mancha | Toledo (a 1 casilla) | Vino: 26 de las 127 casillas de vino del mapa (+1 comida, producción y oro) | Sabana |
 | Cataluña (Catalunya) | Barcelona | Mármol: 2 de las 15 casillas de mármol del mapa (+1 comida, producción y oro) | Bosque |
 | Comunitat Valenciana | València | Mármol: 3 de las 15 casillas de mármol del mapa (+1 comida, producción y oro) | Costa |
@@ -90,6 +92,8 @@ Spain as a map for [Unciv](https://github.com/yairm210/Unciv), the open-source C
   Tested in Unciv 5.0.1.
 - Each community starts in its capital, with its flag, its most populous municipalities (2025 Padrón) as city
   names and an advantage on the resource it holds most of. Pick yours on your player's flag.
+- Castilla y León, the community with the largest share of residents aged 85 and over among those 65 and over (INE
+  Annual Population Census), also grows 10% faster: a game convention.
 - When you pick the map «España» for a new game, Unciv turns this mod on by itself.
 
 | Civilization | Starts in | Advantage | Start bias |
@@ -100,7 +104,7 @@ Spain as a map for [Unciv](https://github.com/yairm210/Unciv), the open-source C
 | Illes Balears | Palma | Wine: 5 of the map's 127 wine tiles (+1 food, production and gold) | Coast |
 | Canarias | Las Palmas de Gran Canaria | Wine: 4 of the map's 127 wine tiles (+1 food, production and gold) | Coast |
 | Cantabria | Santander | Horses: 5 of the map's 19 horse tiles (+1 food, production and gold; revealed by Animal Husbandry) | Coast |
-| Castilla y León | Valladolid | Sheep: 1 of the map's 6 sheep tiles (+1 food, production and gold) | Plains |
+| Castilla y León | Valladolid | Sheep: 1 of the map's 6 sheep tiles (+1 food, production and gold); longevity: 19.2% of those 65 and over are 85 or older, the highest share (Spain: 15.6%): +10% growth | Plains |
 | Castilla-La Mancha | Toledo (1 tile away) | Wine: 26 of the map's 127 wine tiles (+1 food, production and gold) | Plains |
 | Cataluña (Catalunya) | Barcelona | Marble: 2 of the map's 15 marble tiles (+1 food, production and gold) | Forest |
 | Comunitat Valenciana | València | Marble: 3 of the map's 15 marble tiles (+1 food, production and gold) | Coast |

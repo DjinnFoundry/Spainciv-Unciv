@@ -387,11 +387,12 @@
     "startBias": [
       "Plains"
     ],
-    "uniqueName": "Land of Sheep",
+    "uniqueName": "Land of Sheep and Long Life",
     "uniques": [
-      "[+1 Food, +1 Production, +1 Gold] from [Sheep] tiles [in all cities]"
+      "[+1 Food, +1 Production, +1 Gold] from [Sheep] tiles [in all cities]",
+      "[+10]% growth [in all cities]"
     ],
-    "startIntroPart1": "Castilla y León: 2,398,500 people in 2,248 municipalities (INE, Padrón 2025). You start in Valladolid. On this map you have 183 land tiles, and your land and coast hold 1 of the map's 6 sheep tiles: your cities get one more food, production and gold from each one they work.",
+    "startIntroPart1": "Castilla y León: 2,398,500 people in 2,248 municipalities (INE, Padrón 2025). You start in Valladolid. On this map you have 183 land tiles, and your land and coast hold 1 of the map's 6 sheep tiles: your cities get one more food, production and gold from each one they work. You also have the largest share of the oldest old: 19.2% of your residents aged 65 and over are 85 or older (Spain: 15.6%; INE Annual Population Census 2026, provisional). Your cities grow 10% faster, a game convention.",
     "outerColor": [
       255,
       255,
