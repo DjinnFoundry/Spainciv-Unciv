@@ -20,16 +20,16 @@ de [spainciv](https://spainciv.djinnfoundry.com): costa, relieve, ríos, cubiert
 |---|---|---|---|
 | Andalucía | Sevilla | Peces: 4 de las 5 casillas de peces del mapa (+1 comida, producción y oro) | ninguna |
 | Aragón | Zaragoza | Ovejas: 2 de las 6 casillas de ovejas del mapa (+1 comida, producción y oro) | Sabana |
-| Asturias | Oviedo | Caballos: 6 de las 19 casillas de caballos del mapa (+1 comida, producción y oro; se ve con Ganadería) | Montaña |
+| Asturias | Oviedo | Carbón: 1 de las 13 casillas de carbón del mapa (+1 comida, producción y oro; se ve con Industrialización) | Montaña |
 | Illes Balears | Palma | Vino: 5 de las 127 casillas de vino del mapa (+1 comida, producción y oro) | Costa |
 | Canarias | Las Palmas de Gran Canaria | Vino: 4 de las 127 casillas de vino del mapa (+1 comida, producción y oro) | Costa |
 | Cantabria | Santander | Caballos: 5 de las 19 casillas de caballos del mapa (+1 comida, producción y oro; se ve con Ganadería) | Costa |
-| Castilla y León | Valladolid | Uranio: 2 de las 3 casillas de uranio del mapa (+1 comida, producción y oro; se ve con Teoría atómica) | Sabana |
+| Castilla y León | Valladolid | Ovejas: 1 de las 6 casillas de ovejas del mapa (+1 comida, producción y oro) | Sabana |
 | Castilla-La Mancha | Toledo (a 1 casilla) | Vino: 26 de las 127 casillas de vino del mapa (+1 comida, producción y oro) | Sabana |
 | Cataluña (Catalunya) | Barcelona | Mármol: 2 de las 15 casillas de mármol del mapa (+1 comida, producción y oro) | Bosque |
 | Comunitat Valenciana | València | Mármol: 3 de las 15 casillas de mármol del mapa (+1 comida, producción y oro) | Costa |
-| Extremadura | Mérida | Piedra: 9 de las 20 casillas de piedra del mapa (+1 comida, producción y oro) | Pradera |
-| Galicia | Santiago de Compostela | Hierro: 6 de las 35 casillas de hierro del mapa (+1 comida, producción y oro; se ve con Trabajo del hierro) | Bosque |
+| Extremadura | Mérida | Cerdo ibérico: 1 de las 4 casillas de cerdo ibérico del mapa (+1 comida, producción y oro) | Pradera |
+| Galicia | Santiago de Compostela | Peces: 1 de las 5 casillas de peces del mapa (+1 comida, producción y oro) | Bosque |
 | Madrid | Madrid | Ganado: 1 de las 5 casillas de ganado del mapa (+1 comida, producción y oro) | ninguna |
 | Murcia | Murcia | Sal: 3 de las 26 casillas de sal del mapa (+1 comida, producción y oro) | Costa |
 | Navarra | Pamplona/Iruña | Caballos: 2 de las 19 casillas de caballos del mapa (+1 comida, producción y oro; se ve con Ganadería) | Pradera |
@@ -79,16 +79,16 @@ Spain as a map for [Unciv](https://github.com/yairm210/Unciv), the open-source C
 |---|---|---|---|
 | Andalucía | Sevilla | Fish: 4 of the map's 5 fish tiles (+1 food, production and gold) | none |
 | Aragón | Zaragoza | Sheep: 2 of the map's 6 sheep tiles (+1 food, production and gold) | Plains |
-| Asturias | Oviedo | Horses: 6 of the map's 19 horse tiles (+1 food, production and gold; revealed by Animal Husbandry) | Mountain |
+| Asturias | Oviedo | Coal: 1 of the map's 13 coal tiles (+1 food, production and gold; revealed by Industrialization) | Mountain |
 | Illes Balears | Palma | Wine: 5 of the map's 127 wine tiles (+1 food, production and gold) | Coast |
 | Canarias | Las Palmas de Gran Canaria | Wine: 4 of the map's 127 wine tiles (+1 food, production and gold) | Coast |
 | Cantabria | Santander | Horses: 5 of the map's 19 horse tiles (+1 food, production and gold; revealed by Animal Husbandry) | Coast |
-| Castilla y León | Valladolid | Uranium: 2 of the map's 3 uranium tiles (+1 food, production and gold; revealed by Atomic Theory) | Plains |
+| Castilla y León | Valladolid | Sheep: 1 of the map's 6 sheep tiles (+1 food, production and gold) | Plains |
 | Castilla-La Mancha | Toledo (1 tile away) | Wine: 26 of the map's 127 wine tiles (+1 food, production and gold) | Plains |
 | Cataluña (Catalunya) | Barcelona | Marble: 2 of the map's 15 marble tiles (+1 food, production and gold) | Forest |
 | Comunitat Valenciana | València | Marble: 3 of the map's 15 marble tiles (+1 food, production and gold) | Coast |
-| Extremadura | Mérida | Stone: 9 of the map's 20 stone tiles (+1 food, production and gold) | Grassland |
-| Galicia | Santiago de Compostela | Iron: 6 of the map's 35 iron tiles (+1 food, production and gold; revealed by Iron Working) | Forest |
+| Extremadura | Mérida | Cerdo ibérico (Iberian pig): 1 of the map's 4 Iberian pig tiles (+1 food, production and gold) | Grassland |
+| Galicia | Santiago de Compostela | Fish: 1 of the map's 5 fish tiles (+1 food, production and gold) | Forest |
 | Madrid | Madrid | Cattle: 1 of the map's 5 cattle tiles (+1 food, production and gold) | none |
 | Murcia | Murcia | Salt: 3 of the map's 26 salt tiles (+1 food, production and gold) | Coast |
 | Navarra | Pamplona/Iruña | Horses: 2 of the map's 19 horse tiles (+1 food, production and gold; revealed by Animal Husbandry) | Grassland |

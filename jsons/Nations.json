@@ -131,11 +131,11 @@
     "startBias": [
       "Mountain"
     ],
-    "uniqueName": "Land of Horses",
+    "uniqueName": "Land of Coal",
     "uniques": [
-      "[+1 Food, +1 Production, +1 Gold] from [Horses] tiles [in all cities]"
+      "[+1 Food, +1 Production, +1 Gold] from [Coal] tiles [in all cities]"
     ],
-    "startIntroPart1": "Asturias: 1,013,529 people in 78 municipalities (INE, Padrón 2025). You start in Oviedo. On this map you have 19 land tiles, and your land and coast hold 6 of the map's 19 horse tiles: your cities get one more food, production and gold from each one they work. That resource stays hidden, and gives nothing, until you discover Animal Husbandry.",
+    "startIntroPart1": "Asturias: 1,013,529 people in 78 municipalities (INE, Padrón 2025). You start in Oviedo. On this map you have 19 land tiles, and your land and coast hold 1 of the map's 13 coal tiles: your cities get one more food, production and gold from each one they work. That resource stays hidden, and gives nothing, until you discover Industrialization.",
     "outerColor": [
       0,
       102,
@@ -387,11 +387,11 @@
     "startBias": [
       "Plains"
     ],
-    "uniqueName": "Land of Uranium",
+    "uniqueName": "Land of Sheep",
     "uniques": [
-      "[+1 Food, +1 Production, +1 Gold] from [Uranium] tiles [in all cities]"
+      "[+1 Food, +1 Production, +1 Gold] from [Sheep] tiles [in all cities]"
     ],
-    "startIntroPart1": "Castilla y León: 2,398,500 people in 2,248 municipalities (INE, Padrón 2025). You start in Valladolid. On this map you have 183 land tiles, and your land and coast hold 2 of the map's 3 uranium tiles: your cities get one more food, production and gold from each one they work. That resource stays hidden, and gives nothing, until you discover Atomic Theory.",
+    "startIntroPart1": "Castilla y León: 2,398,500 people in 2,248 municipalities (INE, Padrón 2025). You start in Valladolid. On this map you have 183 land tiles, and your land and coast hold 1 of the map's 6 sheep tiles: your cities get one more food, production and gold from each one they work.",
     "outerColor": [
       255,
       255,
@@ -643,11 +643,11 @@
     "startBias": [
       "Grassland"
     ],
-    "uniqueName": "Land of Stone",
+    "uniqueName": "Land of Cerdo ibérico (Iberian pig)",
     "uniques": [
-      "[+1 Food, +1 Production, +1 Gold] from [Stone] tiles [in all cities]"
+      "[+1 Food, +1 Production, +1 Gold] from [Cerdo ibérico] tiles [in all cities]"
     ],
-    "startIntroPart1": "Extremadura: 1,051,638 people in 388 municipalities (INE, Padrón 2025). You start in Mérida. On this map you have 83 land tiles, and your land and coast hold 9 of the map's 20 stone tiles: your cities get one more food, production and gold from each one they work.",
+    "startIntroPart1": "Extremadura: 1,051,638 people in 388 municipalities (INE, Padrón 2025). You start in Mérida. On this map you have 83 land tiles, and your land and coast hold 1 of the map's 4 Iberian pig tiles: your cities get one more food, production and gold from each one they work.",
     "outerColor": [
       0,
       0,
@@ -707,11 +707,11 @@
     "startBias": [
       "Forest"
     ],
-    "uniqueName": "Land of Iron",
+    "uniqueName": "Land of Fish",
     "uniques": [
-      "[+1 Food, +1 Production, +1 Gold] from [Iron] tiles [in all cities]"
+      "[+1 Food, +1 Production, +1 Gold] from [Fish] tiles [in all cities]"
     ],
-    "startIntroPart1": "Galicia: 2,713,169 people in 313 municipalities (INE, Padrón 2025). You start in Santiago de Compostela. On this map you have 57 land tiles, and your land and coast hold 6 of the map's 35 iron tiles: your cities get one more food, production and gold from each one they work. That resource stays hidden, and gives nothing, until you discover Iron Working.",
+    "startIntroPart1": "Galicia: 2,713,169 people in 313 municipalities (INE, Padrón 2025). You start in Santiago de Compostela. On this map you have 57 land tiles, and your land and coast hold 1 of the map's 5 fish tiles: your cities get one more food, production and gold from each one they work.",
     "outerColor": [
       255,
       255,
